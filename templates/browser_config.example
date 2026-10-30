@@ -1,0 +1,11 @@
+{
+  "browser": {
+    "start_url": "about:blank",
+    "user_data_dir_name": "./private/browser_profile",
+    "profile_directory": ""
+  },
+  "paths": {
+    "download_dir_name": "./private/downloads",
+    "artifacts_dir_name": "./private/artifacts"
+  }
+}

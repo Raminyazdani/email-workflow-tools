@@ -1,0 +1,9 @@
+{
+  "paths": {
+    "prompts_folder_path": "./private/prompts",
+    "output_folder_path": "./private/outputs",
+    "prompt_url_map_output_path": "./private/prompt_to_url_map.json"
+  },
+  "input": {"slash_command": ""},
+  "safety": {"block_parallel_workflows": true}
+}
